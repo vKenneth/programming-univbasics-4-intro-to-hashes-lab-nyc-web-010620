@@ -1,5 +1,5 @@
 def new_hash
-  
+  { "one" => , "two" => , "three" => }
 end
 
 def my_hash
